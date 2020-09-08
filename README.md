@@ -1,3 +1,4 @@
 # Computer-Vision
  color detection using cv
-![](Images/1.png)
+ 
+ <img src="Images/1.png" width="400">
